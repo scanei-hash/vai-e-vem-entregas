@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220" viewBox="0 0 700 220">
+<rect width="700" height="220" rx="30" fill="#17324D"/>
+<circle cx="105" cy="110" r="62" fill="#F28C28"/>
+<path d="M70 110h70M105 75v70" stroke="white" stroke-width="12" stroke-linecap="round"/>
+<text x="190" y="105" font-family="Arial" font-size="48" font-weight="700" fill="white">VAI &amp; VEM</text>
+<text x="193" y="150" font-family="Arial" font-size="27" fill="#F28C28">ENTREGAS</text>
+</svg>

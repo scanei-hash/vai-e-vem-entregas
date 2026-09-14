@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+<rect width="1200" height="750" fill="#f7f3ee"/>
+<rect x="55" y="55" width="1090" height="640" rx="35" fill="#17324D"/>
+<circle cx="930" cy="190" r="105" fill="#F28C28"/>
+<text x="110" y="270" font-family="Arial" font-size="150" fill="#F28C28">◆</text>
+<text x="110" y="410" font-family="Arial" font-size="62" font-weight="700" fill="white">Itens Frágeis</text>
+<text x="110" y="485" font-family="Arial" font-size="30" fill="#f7f3ee">Cuidado especial do início ao fim</text>
+<text x="110" y="615" font-family="Arial" font-size="26" fill="#F28C28">Vai &amp; Vem Entregas</text>
+</svg>
